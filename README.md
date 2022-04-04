@@ -8,3 +8,5 @@ You will find the implementation of the Naive Bayes Classifier, as well as anoth
 Implementation details and comments are included both in the code and as markdown cells.
 
 You may find the instructions of this assignment in Assigment 2.pdf
+
+I removed the theoritical part of my work before uploading.
