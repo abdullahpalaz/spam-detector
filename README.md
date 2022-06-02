@@ -2,7 +2,7 @@
 
 This assignment is done for Introduction to Machine Learning class.
 
-You may find the instructions of this assignment in Assigment 2.pdf
+You may find the instructions of this assignment in Assigment 2.pdf  
 I removed the theoritical part of my work before uploading.
 
 Given headlines and their labels as real (0) or clickbait (1), it is asked to classify these headlines as real or clickbait.
