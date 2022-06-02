@@ -1,4 +1,4 @@
-## Spam Detector
+# Spam Detector
 
 This assignment is done for Introduction to Machine Learning class.
 
